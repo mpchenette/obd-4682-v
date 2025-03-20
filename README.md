@@ -25,6 +25,8 @@
    - Whenever I ask a generic, non-language specific question and you want to show me code, always show me Rust.
 1. Vision
 1. One more I can't remember ATM
+1. prompt Files?
+1. URLs as context?
 
 Unused
 ---
