@@ -24,23 +24,22 @@
 1. Next Edit Suggestions
    - classic Point to Point3D example
       - (remember print method and list points in comment. add z as the trigger)
-
-1. Code Review(s)
-   - While we could ask for review in the Chat window, dedicated review is better.
-   1. Highlight + Right Click
-      - `sql.py`
-   1. Code Review
-      - At the end
 1. Custom Instructions
    - show using to specify unit test framework
    - "Prepend all suggested comments with 'Comment:'"
    - "Whenever I ask a generic, non-language specific question and you want to show me code, always show me Rust."
 1. Vision
    - also generating mermaid diagrams
-1. Best Practices Review
 1. Agent Mode - when to use it
+1. Code Review(s)
+   - While we could ask for review in the Chat window, dedicated review is better.
+   1. Highlight + Right Click
+      - `sql.py`
+   1. Code Review
+      - At the end
 
 Tomorrow:
+1. Best Practices Review
 1. Prompt Files
 1. URLs as context
 1. Public Code Block
