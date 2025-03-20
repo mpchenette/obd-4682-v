@@ -2,6 +2,14 @@
 
 ## Demo
 ---
+
+### Basic Prompt Engineering
+1. Comments
+1. Suggestion Selector
+1. Completions Panel
+   - Ctrl + Enter
+1. Editor Inline Chat
+   - Cmd + I
 1. Chat Commands
    - /help
    - /tests
@@ -10,11 +18,15 @@
       - pytest tests/ <!-- (remove add max float if it appears) -->
    - @vscode
       - "where can I find the setting to enable next edit suggestions?"
-1. Public Code Block
+1. Copilot Extensions
+
+### Advanced Prompt Engineering
 1. Next Edit Suggestions
    - classic Point to Point3D example
-      - (rememebr print method and list points in comment. add z as the trigger)
+      - (remember print method and list points in comment. add z as the trigger)
+
 1. Code Review(s)
+   - While we could ask for review in the Chat window, dedicated review is better.
    1. Highlight + Right Click
       - `sql.py`
    1. Code Review
@@ -22,12 +34,15 @@
 1. Custom Instructions
    - show using to specify unit test framework
    - "Prepend all suggested comments with 'Comment:'"
-   - Whenever I ask a generic, non-language specific question and you want to show me code, always show me Rust.
+   - "Whenever I ask a generic, non-language specific question and you want to show me code, always show me Rust."
 1. Vision
 1. Best Practices Review
-1. prompt Files?
-1. URLs as context?
 1. Agent Mode - when to use it
+
+Tomorrow:
+1. Prompt Files
+1. URLs as context
+1. Public Code Block
 
 Unused
 ---
