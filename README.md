@@ -36,6 +36,7 @@
    - "Prepend all suggested comments with 'Comment:'"
    - "Whenever I ask a generic, non-language specific question and you want to show me code, always show me Rust."
 1. Vision
+   - also generating mermaid diagrams
 1. Best Practices Review
 1. Agent Mode - when to use it
 
