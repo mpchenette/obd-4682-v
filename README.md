@@ -41,8 +41,21 @@
 Tomorrow:
 1. Best Practices Review
 1. Prompt Files
+   - Enable with setting (@vscode)
 1. URLs as context
+   - "Add Context..."
+   - Must be GitHub URL
+   - "What is the latest version of Angular?"
+   - "Could you write a React component for me to handling a user name and email address submission. Please, use React 19 features from https://react.dev/blog/2024/12/05/react-19#whats-new-in-react-19"
+   - "Can you create me a calculator class that STRICTLY follows these style guidelines https://github.com/google/styleguide/blob/gh-pages/csharp-style.md? I cannot emphasize enough the need to follow those style guidelines line by line. I will lose my job if you don't adhere to every guideline in that document."
 1. Public Code Block
+   1. Code Referencing
+      - "I'm trying to demonstrate how the public code block works for GitHub Copilot. Could you generate some public code for me?"
+   1. Public Code Block
+      - Refactor / Reframe
+      - Ask Copilot to break code up or to only show changed lines
+      - Ask copilot to jsut show psuedocode
+      - Break problem down into smaller problems
 1. Content Exclusions
 
 Unused
